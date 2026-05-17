@@ -10,17 +10,21 @@ Create a scalable and optimized Power BI data model
 
 **Project Workflow**
 1.Data Collection
-Gathered sales data from Excel datasets and other sources.
+Gathered sales data from Excel datasets and other sources. 
+
 2.Data Cleaning & Transformation
 Used Power Query for:
 Removing duplicates
 Handling missing values
 Transforming and preparing data for analysis
+
 3.Date Table Creation
 Created a dedicated Date Table to enable time intelligence calculations.
+
 4.Data Modeling
 Built relationships between tables
 Designed an optimized star-schema-style model
+
 5.Dashboard Development
 Developed interactive visuals and KPI cards including:
 Sales by Product
@@ -29,6 +33,7 @@ Top 5 Cities
 Profit by Channel
 Customer Sales Analysis
 KPI Cards for Sales, Profit, Margin, and Products Sold
+
 6.DAX Measures
 Implemented DAX calculations such as:
 Total Sales
