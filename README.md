@@ -9,6 +9,7 @@ Build interactive reports using filters and slicers
 Create a scalable and optimized Power BI data model
 
 **Project Workflow**
+
 1.Data Collection
 Gathered sales data from Excel datasets and other sources. 
 
