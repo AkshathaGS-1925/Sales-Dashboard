@@ -48,6 +48,7 @@ DAX (Data Analysis Expressions)
 Data Modeling
 Interactive Dashboard Design
 Business Intelligence & Analytics
+
 **Outcome**
 The project demonstrates how Power BI can be used to build a complete business intelligence solution that helps organizations monitor KPIs, discover trends, and improve strategic decision-making through interactive reporting.
 <img width="1322" height="742" alt="image" src="https://github.com/user-attachments/assets/dc9de99a-7651-431c-a807-fac1df09f142" />
